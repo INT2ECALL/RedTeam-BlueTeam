@@ -8,9 +8,15 @@
 1.1 资产管理工具
 
 1.2 渗透框架软件
+
 msf
+
+viper
+
 cobaltstrike
+
 empire
+
 
 
 2.信息收集
